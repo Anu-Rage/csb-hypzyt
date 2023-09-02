@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://anu-rage.github.io/csb-hypzyt/static/js/main.df6f2781.chunk.js",
+    "main.js.map": "https://anu-rage.github.io/csb-hypzyt/static/js/main.df6f2781.chunk.js.map",
+    "runtime-main.js": "https://anu-rage.github.io/csb-hypzyt/static/js/runtime-main.17c89011.js",
+    "runtime-main.js.map": "https://anu-rage.github.io/csb-hypzyt/static/js/runtime-main.17c89011.js.map",
+    "static/js/2.36d8925b.chunk.js": "https://anu-rage.github.io/csb-hypzyt/static/js/2.36d8925b.chunk.js",
+    "static/js/2.36d8925b.chunk.js.map": "https://anu-rage.github.io/csb-hypzyt/static/js/2.36d8925b.chunk.js.map",
+    "index.html": "https://anu-rage.github.io/csb-hypzyt/index.html",
+    "precache-manifest.301dacd9aa7bd2490fffdab122bfce16.js": "https://anu-rage.github.io/csb-hypzyt/precache-manifest.301dacd9aa7bd2490fffdab122bfce16.js",
+    "service-worker.js": "https://anu-rage.github.io/csb-hypzyt/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17c89011.js",
+    "static/js/2.36d8925b.chunk.js",
+    "static/js/main.df6f2781.chunk.js"
+  ]
+}
